@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Shreyasii 
-- 👀 I’m interested in coding and passionate about it
-- 🌱 I’m currently learning cpp, Python,Java...
-- 💞️ I’m looking to collaborate on exploring, learning grabbing opportunities, work with organisations...
-- 📫 How to reach me shreyasiibhagwat2001@gmail.com  ...
-
-<!---
-Shreyasii11/Shreyasii11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+The project presents the development of an 
+automated orange fruit counting system using shape descriptors 
+and machine learning algorithms. The paper aims to address the 
+need for efficient and accurate fruit counting methods in the 
+agricultural industry. The system utilizes computer vision 
+techniques to analyze images of orange fruits and employs shape 
+descriptors, namely HOG and SIFT, to extract relevant 
+features. These features are then used as inputs for machine 
+learning algorithms, including SVM, KNN, and K-means, to 
+classify and count the orange fruits. The paper involves a 
+comprehensive experimental setup, implementation of the 
+proposed system, and evaluation of its performance using a 
+dataset of orange fruit images. The results demonstrate the 
+effectiveness of the automated counting system of two best 
+models with an accuracy of 100% and 75% respectively, 
+quantifying orange fruits and provide insights for potential 
+applications in crop management.
